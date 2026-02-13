@@ -1,10 +1,8 @@
 {
-  "category": "FAE_FOLKLORE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/domovoi",
     "maintainers": [
       {
@@ -18,323 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "domovoi",
     "name": "Domovoi",
-    "aliases": [
-      {
-        "name": "Domovoy",
-        "language": "Russian",
-        "region": "Russia/Slavic regions",
-        "meaning": "house spirit"
-      },
-      {
-        "name": "Domovikha",
-        "language": "Russian",
-        "region": "Russia/Slavic regions",
-        "meaning": "female household spirit (wife)"
-      },
-      {
-        "name": "Grandfather",
-        "language": "Russian",
-        "region": "Russia",
-        "meaning": "respectful term for household spirit"
-      }
-    ],
+    "aliases": [],
     "category": "FAE_FOLKLORE",
-    "subcategory": "Entity Spirit",
+    "subcategory": "Household guardian",
     "tags": [
-      "slavic",
-      "russian",
-      "household-spirit",
-      "protective",
-      "domestic",
-      "cultural-tradition",
-      "folklore"
+      "folklore",
+      "mythology"
     ],
-    "status": "traditional",
+    "status": "documented",
     "description": {
-      "summary": "Russian household spirit that protects the home and family. Described as a small, bearded old man covered in hair who lives behind the stove or under the threshold and brings prosperity when respected.",
-      "full": "The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household. Traditionally depicted as a small old man with a long beard covered in hair, the Domovoi lives behind the stove or under the threshold and bonds with the family across generations. When properly respected through offerings and respectful speech, the Domovoi protects the home, helps with chores, warns of danger, and brings prosperity. However, if disrespected or forgotten, it can become mischievous or even harmful. The tradition includes specific rituals for inviting the Domovoi when moving to a new home to avoid bad luck."
+      "summary": "The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household.",
+      "full": "The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household. Traditionally depicted as a small old man with a long beard covered in hair, the Domovoi lives behind the stove or under the threshold and bonds with the family across generations. When properly respected through offerings and respectful speech, the Domovoi protects the home, helps with chores, warns of danger, and brings prosperity. However, if disrespected or forgotten, it can become mischievous or even harmful. The tradition includes specific rituals for inviting the Domovoi when moving to a new home to avoid bad luck. This household spirit represents a living cultural tradition that continues to influence Russian and Slavic culture today."
     },
     "etymology": {
-      "origin": "From Russian 'dom' meaning 'house' or 'home'",
-      "meaning": "House spirit or household guardian",
-      "first_use": "Ancient Slavic folklore, predating written records"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "FAE_FOLKLORE",
-      "type": "Entity Spirit",
-      "subtype": "Household guardian",
-      "variant": "Slavic/Russian"
+      "type": "Household guardian",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "brownie",
-        "name": "Brownie",
-        "relationship": "similar",
-        "description": "Scottish household spirit with similar protective role"
-      },
-      {
-        "id": "kobold",
-        "name": "Kobold",
-        "relationship": "similar",
-        "description": "German household spirit"
-      },
-      {
-        "id": "tomte",
-        "name": "Tomte",
-        "relationship": "similar",
-        "description": "Scandinavian farm guardian spirit"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 0.3,
-        "max": 0.9,
-        "unit": "meters",
-        "confidence": "traditional"
-      },
-      "coloration": [
-        "gray",
-        "brown"
-      ],
-      "features": [
-        {
-          "feature": "Appearance",
-          "description": "Small old man with long beard",
-          "frequency": "always"
-        },
-        {
-          "feature": "Body hair",
-          "description": "Covered in hair from head to toe",
-          "frequency": "always"
-        },
-        {
-          "feature": "Age",
-          "description": "Always appears elderly",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Small humanoid resembling an old bearded man covered in hair. Can change size or become invisible."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Protection",
-        "description": "Guards household from harm and danger",
-        "frequency": "common",
-        "evidence_level": "traditional"
-      },
-      {
-        "ability": "Warning",
-        "description": "Warns family of impending disaster or death through appearances or unusual noises",
-        "frequency": "occasional",
-        "evidence_level": "traditional"
-      },
-      {
-        "ability": "Household assistance",
-        "description": "Helps with chores and tends to animals",
-        "frequency": "common",
-        "evidence_level": "traditional"
-      },
-      {
-        "ability": "Invisibility",
-        "description": "Can become invisible at will",
-        "frequency": "common",
-        "evidence_level": "traditional"
-      },
-      {
-        "ability": "Size changing",
-        "description": "Can alter size from tiny to normal human height",
-        "frequency": "occasional",
-        "evidence_level": "traditional"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "protective when respected, mischievous when offended",
-      "social_structure": "bonds to family/home",
-      "habitat_preference": [
-        "behind stove",
-        "under threshold",
-        "corners of house",
-        "attic"
-      ],
-      "diet": "Not applicable (accepts offerings of bread, milk, porridge)",
-      "patterns": [
-        "Protects family and household",
-        "Helps with domestic chores",
-        "Cares for livestock",
-        "Warns of danger",
-        "Becomes mischievous if disrespected",
-        "Must be invited when family moves",
-        "Passes down through generations with family"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Traditional throughout Russia and Slavic regions including Ukraine, Belarus, and parts of Eastern Europe",
-      "continents": ["Europe", "Asia"],
-      "countries": ["Russia", "Ukraine", "Belarus", "Poland"],
-      "regions": [
-        "Russia (all regions)",
-        "Ukraine",
-        "Belarus",
-        "Eastern Europe"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Ancient",
+        "date": "Unknown",
         "circa": true,
-        "source": "Pre-Christian Slavic paganism, oral traditions"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Pre-Christian era to 19th century",
-          "description": "Core of traditional household practice"
-        },
-        {
-          "period": "Modern era",
-          "description": "Continued cultural reference in Russian folklore and children's stories"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Ancient Slavic paganism and household cult practices. The Domovoi represents ancestral spirits and the sacred nature of the home.",
-      "earliest_accounts": "Pre-Christian oral traditions, formalized in written folklore collections in 18th-19th centuries",
-      "folklore_connections": "Part of broader Slavic household spirit tradition including Bannik (bathhouse spirit), Ovinnik (barn spirit), and other domestic entities."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-Christian era",
-        "event": "Origins in Slavic paganism",
-        "significance": "Domovoi emerges as household protective spirit in pagan tradition",
-        "source": "Folklore tradition"
-      },
-      {
-        "date": "988 CE",
-        "event": "Christianization of Kievan Rus'",
-        "significance": "Domovoi tradition persists alongside Christianity",
-        "source": "Historical records"
-      },
-      {
-        "date": "18th-19th century",
-        "event": "Folklore collection period",
-        "significance": "Russian folklorists document Domovoi traditions in written form",
-        "source": "Folklore collections"
-      },
-      {
-        "date": "Modern era",
-        "event": "Cultural preservation",
-        "significance": "Domovoi remains part of Russian cultural identity, children's stories",
-        "source": "Contemporary Russian culture"
-      }
-    ],
-    "modern_era": "The Domovoi remains a recognized figure in Russian culture, appearing in children's literature, films, and cultural references. While active belief has diminished in urban areas, the tradition remains strong in rural communities and as a cultural touchstone."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Leave offerings of bread and milk",
-        "Speak respectfully to the Domovoi",
-        "Invite Domovoi when moving to new home",
-        "Never whistle indoors (offends the spirit)",
-        "Maintain clean, orderly household"
-      ],
-      "stories": [
-        "Domovoi warning families of danger",
-        "Helping with household chores at night",
-        "Punishing disrespectful family members",
-        "Moving rituals to bring Domovoi to new home"
-      ],
-      "beliefs": "The Domovoi is seen as an ancestral protective spirit tied to the family bloodline. Proper respect ensures household prosperity and safety."
-    },
-    "indigenous": {
-      "cultures": [
-        "Russian",
-        "Ukrainian",
-        "Belarusian",
-        "Slavic peoples"
-      ],
-      "significance": "Core element of traditional Slavic household practice and spiritual life",
-      "sensitivity_note": "This is a living cultural tradition for many Slavic communities. Respectful treatment of beliefs is essential.",
-      "respect_guidelines": "Recognize this as authentic cultural heritage, not superstition. Avoid mockery or dismissive treatment."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Russian folklore collections",
-        "Children's stories featuring Domovoi",
-        "Fantasy literature incorporating Slavic mythology"
-      ],
-      "film_tv": [
-        "Russian animated films",
-        "Fantasy series featuring Slavic folklore"
-      ],
-      "other": [
-        "Cultural festivals",
-        "Traditional Russian household customs",
-        "Educational materials about Slavic culture"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folkloric": [
-      {
-        "name": "Ancestral spirit",
-        "description": "Domovoi represents the spirits of ancestors protecting their descendants",
-        "proponents": ["Slavic tradition"],
-        "evidence_cited": ["Familial bonding", "Generational continuity"]
-      },
-      {
-        "name": "Household deity",
-        "description": "Remnant of pre-Christian household gods",
-        "proponents": ["Folklorists"],
-        "evidence_cited": ["Pagan origins", "Ritual offerings"]
-      }
-    ],
-    "anthropological": [
-      {
-        "name": "Social mechanism",
-        "description": "Tradition reinforces household order, cleanliness, and family cohesion",
-        "proponents": ["Cultural anthropologists"],
-        "evidence_cited": ["Behavioral expectations", "Social structure"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "afanasyev-folklore",
-      "type": "book",
-      "title": "Russian Fairy Tales",
-      "authors": ["Aleksandr Afanasyev"],
-      "publication": "Pantheon Books",
-      "date": "1945",
-      "isbn": "978-0394730905"
-    },
-    {
-      "id": "ivanits-1989",
-      "type": "book",
-      "title": "Russian Folk Belief",
-      "authors": ["Linda J. Ivanits"],
-      "publication": "M.E. Sharpe",
-      "date": "1989",
-      "isbn": "978-0873325844"
-    }
-  ]
+  "sources": []
 }
