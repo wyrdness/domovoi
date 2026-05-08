@@ -1,282 +1,161 @@
-# Domovoi
+# Domovoy
 
-> *"The house is alive when the Domovoi is at peace."*
+> The domovoy is the tutelary household spirit of Slavic folklore — a small old man, often bearded and grey, who lives behind the stove or under the threshold and guards the family, livestock, and prosperity of the home.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `domovoi` |
 | **Category** | FAE_FOLKLORE |
-| **Classification** | Entity Spirit / Household Guardian |
-| **First Recorded** | Ancient (Pre-Christian Slavic) |
-| **Primary Region** | Russia, Slavic regions |
-| **Status** | Traditional folklore |
+| **Subcategory** | Slavic household spirit |
+| **First recorded** | 1100-01-01 |
+| **Primary range** | Across the Slavic world, with the densest tradition in Russia, Ukraine, and Belarus and parallel traditions in Poland, the Czech lands, Slovakia, and the South Slavic regions |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household. Traditionally depicted as a small old man with a long beard covered in hair, the Domovoi lives behind the stove or under the threshold and bonds with the family across generations.
-
-When properly respected through offerings and respectful speech, the Domovoi protects the home, helps with chores, warns of danger, and brings prosperity. However, if disrespected or forgotten, it can become mischievous or even harmful.
-
-The tradition includes specific rituals for inviting the Domovoi when moving to a new home to avoid bad luck. This household spirit represents a living cultural tradition that continues to influence Russian and Slavic culture today.
+The domovoy is the household spirit of Russian, Ukrainian, Belarusian, and broader Slavic folk tradition. Folklorist E. G. Kagarov characterized the domovoy as a 'personification of the supreme Rod in the microcosm of kinship'. The spirit is most commonly described as an old, grey-haired man with flashing eyes, but may also appear as a cat, dog, bear, the household master, or a departed ancestor; some traditions give it horns and a tail or describe it as a serpent. The domovoy attends to the welfare of the family across generations, paying particular attention to children and animals. It can foretell deaths, plagues, and calamities, and may abandon a household whose members live immorally. Specialized variants — the dvorovoy of the courtyard, the bannik of the bathhouse, and the ovinnik of the threshing barn — extend its tutelary role to other domestic spaces. Slavic householders maintained the domovoy with offerings of leftover food, bread and salt, and (in some traditions) the blood of a midnight rooster. When moving to a new home, families performed an explicit invocation inviting the domovoy to follow, often burying a hen and the first slice of the inaugural meal's bread in the courtyard. Helmold's Chronica Slavorum (12th century) and Cosmas of Prague's Chronica Boemorum (12th century) record household 'penates' among the Elbe and Bohemian Slavs that correspond to this tradition.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Domovoy | Russian / Russia | From dom, 'house' |
+| Domovik | Polish/Serbian / Poland, Serbia |  |
+| Domovyk | Ukrainian / Ukraine |  |
+| Damavik | Belarusian / Belarus |  |
+| Děd | Czech | Grandfather |
+| Škrata | Slovak / Slovakia |  |
+| Skrzat | Polish / Poland |  |
 
-### Primary Name
-- **Domovoi** — From Russian "dom" (house), meaning "house spirit" or "household guardian"
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Domovoy | Russian | House spirit |
-| Domovikha | Russian | Female household spirit (wife) |
-| Grandfather | Russian | Respectful term for the spirit |
-| Dedushka | Russian | "Grandfather" (affectionate) |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: FAE_FOLKLORE
-├── Type: Entity Spirit
-├── Subtype: Household guardian
-└── Variant: Slavic/Russian
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Brownie](/brownie) | Similar | Scottish household spirit with protective role |
-| Kobold | Similar | German household spirit |
-| Tomte | Similar | Scandinavian farm guardian spirit |
+- **Origin**: Slavic root dom- ('house, abode'), ultimately Indo-European *dom-
+- **Meaning**: 'House one' or 'house spirit'; cognate with Roman di penates as a tutelary class
+- **First use**: Recorded in medieval chronicles of the Slavs (12th century, e.g., Helmold's Chronica Slavorum)
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Kikimora](../kikimora/) — _related_: Female Slavic household spirit sometimes paired with the domovoy
+- [Bannik](../bannik/) — _subset_: Specialized Slavic spirit of the bathhouse
+- [Leshy](../leshy/) — _counterpart_: Slavic forest counterpart of the domestic domovoy
+- [Vodyanoy](../vodyanoy/) — _counterpart_: Slavic water spirit, counterpart of the household domovoy
+- [Brownie](../brownie/) — _similar_: Scottish household spirit performing comparable tutelary roles
+- [Duende](../duende/) — _similar_: Iberian household and forest spirit with comparable behaviors
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 0.3 - 0.9 meters (1 - 3 feet) | Traditional |
-| **Appearance** | Small old man with long beard | Traditional |
-| **Hair** | Covered in hair from head to toe | Traditional |
-| **Color** | Gray or brown | Traditional |
+- **Coloration**: grey, shaggy hair tones varying by region
+- **Morphology**: A shape-shifting tutelary spirit; typically small and humanoid in primary form but with broad capacity to manifest as animals or as the householder himself.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Beard | Long, flowing beard | Always |
-| Body hair | Completely covered in hair | Always |
-| Elderly appearance | Always appears as an old man | Always |
-| Size variability | Can change size or become invisible | Occasional |
+|---|---|---|
+| Old bearded man form | Typically described as a small, grey-haired, bearded old man with flashing eyes | common |
+| Animal forms | May appear as a cat, dog, or bear, particularly when not seen as a humanoid | occasional |
+| Resembling the household master | Some traditions describe the domovoy as appearing identical to the head of the household or a deceased ancestor | occasional |
+| Horns and tail | A minority of regional traditions ascribe horns and a tail; rarer still, a serpent form | rare |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Protection | Guards household from harm and danger | Traditional |
-| Warning | Warns of disaster or death through appearances/noises | Traditional |
-| Household help | Assists with chores and tends animals | Traditional |
-| Invisibility | Can become invisible at will | Traditional |
-| Size changing | Can alter size from tiny to human height | Traditional |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Household protection | Guards the family, livestock, and prosperity of the home | always | folklore |
+| Precognition / portents | Foretells deaths, plagues, and calamities through dreams, sounds, or unusual behavior | common | folklore |
+| Domestic chores | Said to assist with household tasks when respected | common | folklore |
+| Punitive mischief | Becomes mischievous or destructive when disrespected, including breaking pots and disturbing livestock | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal (works at night)
-- **Disposition**: Protective when respected; mischievous when offended
-- **Habitat**: Behind stove, under threshold, corners, attic
-- **Offerings**: Bread, milk, porridge
-
-**Key Behaviors**:
-- Protects family and household
-- Helps with domestic chores at night
-- Cares for livestock
-- Warns of impending danger
-- Becomes mischievous if disrespected
-- Must be invited when family moves
-- Passes down through generations with family
+- **Activity**: nocturnal
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: behind or under the stove, thresholds and doorways, the cellar, stables and animal shelters
+- **Diet**: Said to consume leftover evening meals, bread and salt, milk; in periods of crisis, the blood of a rooster sacrificed at midnight
 
 ---
+## Distribution
 
-## Geographic Distribution
+Across the Slavic world, with the densest tradition in Russia, Ukraine, and Belarus and parallel traditions in Poland, the Czech lands, Slovakia, and the South Slavic regions.
 
-### Primary Range
-
-Traditional throughout Russia and Slavic regions including Ukraine, Belarus, and parts of Eastern Europe.
-
-### Cultural Distribution
-
-| Region | Significance |
-|--------|--------------|
-| Russia (all regions) | Core household tradition |
-| Ukraine | Widespread folk belief |
-| Belarus | Traditional practice |
-| Eastern Europe | Slavic communities |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-The Domovoi originates from ancient Slavic paganism and household cult practices, representing ancestral spirits and the sacred nature of the home. These traditions predate Christianity and have persisted for over a millennium.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-Christian era | Origins in Slavic paganism | Domovoi emerges as household protective spirit |
-| 988 CE | Christianization of Kievan Rus' | Tradition persists alongside Christianity |
-| 18th-19th century | Folklore collection period | Traditions documented in written form |
-| Modern era | Cultural preservation | Remains part of Russian cultural identity |
+|---|---|---|
+| 1100-01-01 | Cosmas of Prague's Chronica Boemorum records household penates among the Bohemian Slavs | Among the earliest written attestations |
+| 1170-01-01 | Helmold of Bosau's Chronica Slavorum records household penates among the Elbe Slavs | Foundational medieval source for Slavic household spirits |
+| 1900-01-01 | Russian and Soviet ethnographers (D. K. Zelenin, E. G. Kagarov, later V. V. Ivanov and V. N. Toporov) systematize the domovoy in Slavic folklore studies | Modern academic framework for the tradition |
 
-### Modern Era
+## Evidence
 
-The Domovoi remains a recognized figure in Russian culture, appearing in children's literature, films, and cultural references. While active belief has diminished in urban areas, the tradition remains strong in rural communities and as a cultural touchstone.
+### Documentary
 
----
-
-## Traditions & Practices
-
-### Proper Respect
-
-To maintain good relations with the Domovoi:
-
-1. **Offerings**: Leave bread, milk, or porridge
-2. **Speech**: Speak respectfully, address as "Grandfather"
-3. **Cleanliness**: Maintain clean, orderly household
-4. **Behavior**: Never whistle indoors (offends the spirit)
-
-### Moving Ritual
-
-When moving to a new home, the family must invite the Domovoi:
-
-1. Place offerings in old home
-2. Invite Domovoi to follow to new home
-3. Provide offerings in new home
-4. Speak words of invitation and welcome
-
-Failure to invite the Domovoi results in bad luck in the new home.
-
-### Warning Signs
-
-The Domovoi warns of danger through:
-- Appearing to family members
-- Unusual noises or disturbances
-- Disturbing dreams
-- Unexplained household events
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Helmold of Bosau, Chronica Slavorum | c. 1170 | Twelfth-century Latin chronicle that records the veneration of household 'penates' among the Elbe Slavs. | verified |
+| Cosmas of Prague, Chronica Boemorum | c. 1125 | Early-twelfth-century chronicle that records the mythical Slavic forefather Czech instructing his companions to make offerings to their penates. | verified |
 
 ---
+## Theories & Explanations
 
-## Cultural Significance
+### Paranormal / Cryptozoological
 
-### Slavic Cultural Tradition
+**Ancestral spirit interpretation** _(E. G. Kagarov, Slavic ethnographic tradition)_
 
-> ⚠️ **Cultural Sensitivity Note**: This is a living cultural tradition for many Slavic communities. Respectful treatment of these beliefs is essential. Avoid mockery or dismissive attitudes.
+The domovoy is interpreted within Slavic tradition as a clan ancestor protecting living kin.
 
-The Domovoi represents:
-- **Ancestral connection**: Link to family ancestors
-- **Household sanctity**: Sacred nature of the home
-- **Social order**: Reinforces cleanliness and family values
-- **Cultural identity**: Core element of Slavic heritage
+### Skeptical
 
-### Popular Culture
+**Folkloric and ritual interpretation** _(Modern Slavic folklore scholarship)_
 
-**Literature**:
-- Russian folklore collections
-- Children's stories featuring Domovoi
-- Fantasy literature with Slavic mythology
+Folklorists treat the domovoy as a tutelary figure encoding household ritual and ancestral piety rather than as an empirical entity.
 
-**Film/TV**:
-- Russian animated films
-- Fantasy series featuring Slavic folklore
 
-**Other**:
-- Cultural festivals
-- Traditional Russian household customs
-- Educational materials about Slavic culture
+## Popular Culture
+
+**Literature**: References in 19th-century Russian Romantic literature (Pushkin, Gogol); Modern Russian and English fantasy adaptations
+
+**Other**: Folk-art representations on stoves, embroideries, and contemporary craft revivals
 
 ---
+## Research
 
-## Related Household Spirits
+### Researchers
 
-The Domovoi is part of a larger system of Slavic household and nature spirits:
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| E. G. Kagarov | Soviet ethnography | Systematic study of domovoy as 'personification of the supreme Rod in the microcosm of kinship' | early 20th century |
+| V. V. Ivanov & V. N. Toporov | Soviet semiotics and Slavic mythology | Comparative reconstruction of Slavic mythology including household spirits | 1960s–1980s |
 
-- **Bannik**: Bathhouse spirit
-- **Ovinnik**: Barn spirit
-- **Dvorovoi**: Yard spirit
-- **Kikimora**: Female house spirit (sometimes antagonistic)
-- **Leshy**: Forest spirit
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const domovoi = await wyrd.getPhenomenon('domovoi');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/domovoi/main/api.json
-```
+Active study within Slavic folklore departments and museum ethnography in Russia, Ukraine, Belarus, and Poland.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Afanasyev, A. *Russian Fairy Tales*. Pantheon Books.
-- Ivanits, L.J. (1989). *Russian Folk Belief*. M.E. Sharpe.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
